@@ -1,0 +1,2 @@
+# Hacker.mindset.py
+ATIVIDADE DA AULA DIA 15/8 "PYTHON PARA HACKERS"
