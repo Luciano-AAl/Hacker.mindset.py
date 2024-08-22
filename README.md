@@ -14,3 +14,8 @@ except fileNotFoundError:
 except: 
 
     print("erro") 
+
+
+    
+
+
